@@ -1,5 +1,5 @@
-Yo i'm nocss!
-I make gmod addons, models and just modding in general
+#Hey!
+I make addons for a variety of games!
 I know C# and am currently learning Python!
 
 <!---
